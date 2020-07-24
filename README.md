@@ -1,5 +1,5 @@
 ## def_crafting
-Thank you for downloading my craftingsystem!
+Thank you for downloading my Script!
 
 ## 1. Requirements
 - [RedEM:RP](https://github.com/kanersps/redem)
