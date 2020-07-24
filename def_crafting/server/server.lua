@@ -84,7 +84,7 @@ AddEventHandler("def_crafting:getthrowing", function(name, weapon)
     end)
 end)
 
--- Gegenstände
+-- {Items} --
 
 RegisterServerEvent('def_crafting:getknifeblade')
 AddEventHandler("def_crafting:getknifeblade", function(name, weapon)
@@ -170,7 +170,7 @@ AddEventHandler("def_crafting:getarrowhead", function(name, weapon)
     end)
 end)
 
--- Werkzeug
+-- {Tools} --
 
 RegisterServerEvent('def_crafting:getfishingrod')
 AddEventHandler("def_crafting:getfishingrod", function(name, weapon)
@@ -197,7 +197,7 @@ AddEventHandler("def_crafting:getfishingrod", function(name, weapon)
     end)
 end)
 
---- Munition
+-- {Ammo} --
 
 RegisterServerEvent('def_crafting:getarrow')
 AddEventHandler("def_crafting:getarrow", function(name, weapon)
