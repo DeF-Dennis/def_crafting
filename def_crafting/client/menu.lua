@@ -138,7 +138,7 @@ AddEventHandler('def_crafting:getthrowing', function()
 
 end)
 
--- Gegenstände
+-- {Items} --
 
 RegisterNetEvent('def_crafting:getknifeblade')
 AddEventHandler('def_crafting:getknifeblade', function()
